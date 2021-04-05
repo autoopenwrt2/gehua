@@ -4,7 +4,7 @@
 # AutoBuild DiyScript
 
 Diy_Core() {
-	Author=Hyy2001
+	Author=.xqxwjj.
 	Default_Device=
 
 	INCLUDE_AutoUpdate=true
