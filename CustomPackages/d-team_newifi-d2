@@ -1,10 +1,8 @@
 git other openwrt-passwall https://github.com/xiaorouji main
-svn other luci-app-smartdns https://github.com/immortalwrt/luci/trunk/applications
 git other luci-app-poweroff https://github.com/esirplayground
 git other OpenClash https://github.com/vernesong master
 git other luci-app-argon-config https://github.com/jerrykuku
 git other luci-app-jd-dailybonus https://github.com/jerrykuku
-git other luci-app-dnsfilter https://github.com/garypang13 maste
 git other luci-app-adguardhome https://github.com/Hyy2001X
 git other luci-app-serverchan https://github.com/tty228
 svn other luci-app-socat https://github.com/Lienol/openwrt-package/trunk
@@ -12,4 +10,7 @@ svn other luci-app-usb3disable https://github.com/immortalwrt/luci/trunk/applica
 svn other luci-app-eqos https://github.com/immortalwrt/luci/trunk/applications
 git other luci-app-bearDropper https://github.com/NateLol
 git other luci-app-onliner https://github.com/rufengsuixing
-git OAF openwrt-OpenAppFilter https://github.com/Lienol maste
+git other xqxwjj-kp-no-Ad https://github.com/autoopenwrt
+git other OpenAppFilter https://github.com/destan19
+git other openwrt-smartdns https://github.com/autoopenwrt
+git other luci-app-smartdns https://github.com/autoopenwrt
