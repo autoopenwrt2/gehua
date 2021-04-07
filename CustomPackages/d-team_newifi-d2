@@ -10,7 +10,6 @@ svn other luci-app-usb3disable https://github.com/immortalwrt/luci/trunk/applica
 svn other luci-app-eqos https://github.com/immortalwrt/luci/trunk/applications
 git other luci-app-bearDropper https://github.com/NateLol
 git other luci-app-onliner https://github.com/rufengsuixing
-git other xqxwjj-kp-no-Ad https://github.com/autoopenwrt
+git other luci-app-koolproxy https://github.com/autoopenwrt
 git other OpenAppFilter https://github.com/destan19
-git other openwrt-smartdns https://github.com/autoopenwrt
-git other luci-app-smartdns https://github.com/autoopenwrt
+svn other luci-app-smartdns https://github.com/immortalwrt/luci/trunk/applications
