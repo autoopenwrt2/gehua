@@ -123,7 +123,6 @@ CONFIG_UnblockNeteaseMusic_Go=y
 CONFIG_PACKAGE_luci-app-webadmin=y
 CONFIG_PACKAGE_luci-app-wol=y
 # CONFIG_PACKAGE_luci-app-wireguard is not set
-CONFIG_PACKAGE_luci-app-watchcat=y
 CONFIG_PACKAGE_luci-app-guest-wifi=y
 CONFIG_PACKAGE_luci-app-jd-dailybonus=y
 CONFIG_PACKAGE_luci-app-poweroff=y
