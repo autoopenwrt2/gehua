@@ -11,6 +11,6 @@ svn other luci-app-eqos https://github.com/immortalwrt/luci/trunk/applications
 git other luci-app-bearDropper https://github.com/NateLol
 git other luci-app-onliner https://github.com/rufengsuixing
 git other luci-app-koolproxy https://github.com/autoopenwrt
-git other luci-app-serverchand https://github.com/autoopenwrt2
+git other luci-app-pushbot https://github.com/autoopenwrt2
 git other OpenAppFilter https://github.com/destan19
 svn other luci-app-smartdns https://github.com/immortalwrt/luci/trunk/applications
